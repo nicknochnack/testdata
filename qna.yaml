@@ -1,0 +1,19 @@
+created_by: Nicholas Renotte
+domain: Cosmic fantabulator
+seed_examples:
+- answer: It serves as a multi-functional device combining features of a personal assistant, entertainment hub, and home automation system.
+  question: What type of display does the Cosmic Fantabulator have?
+- answer: Cosmos OS 3.0
+  question: What is the operating system of the Cosmic Fantabulator?
+- answer: Up to 48 hours of continuous use.
+  question: How long is the battery life of the Cosmic Fantabulator?
+- answer: Advanced security features, including biometric authentication and end-to-end encryption.
+  question: What security features does the Cosmic Fantabulator offer?
+- answer: Quantum Nexus QN-10, 12-core, 4.5 GHz
+  question: What kind of processor is used in the Cosmic Fantabulator?
+task_description: 'Product information for the cosmic fantabulator'
+document:
+  repo: https://github.com/nicknochnack/testdata
+  commit: e387558dd4a833182b2197f4df15b4f6439a5789
+  patterns:
+    - testdata*.md
